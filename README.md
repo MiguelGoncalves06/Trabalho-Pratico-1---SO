@@ -67,6 +67,10 @@ Need = Maximum - Allocation
 
 ## 1. Clone o repositório
 
+```bash
+https://github.com/MiguelGoncalves06/Trabalho-Pratico-1---SO/tree/main
+```
+
 ---
 
 ## 2. Entre na pasta do projeto
@@ -113,7 +117,7 @@ BankerAlgorithm/
 │
 ├── Program.cs
 ├── README.md
-├── Trapalho Pratico 1.csproj
+├── Trapalho pratico 1.csproj
 ```
 
 ---
